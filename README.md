@@ -58,10 +58,10 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/fdfborges/feed-react-ts.git
+git clone https://github.com/fdfborges/timer-react-ts.git
 
-# entrar na pasta do projeto front end web
-cd feed-react-ts
+# entrar na pasta do projeto
+cd timer-react-ts
 
 # instalar dependências
 npm install
