@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Link para Demonstração: https://feed-react-ts-seven.vercel.app/
+Link para Demonstração: https://timer-react-ts.vercel.app/
 
 **Aplicação desenvolvida para portifólio.**<br>
 Este projeto consiste em um aplicativo de contagem regressiva, projetado para ajudar a gerenciar seu tempo e aumentar a produtividade. Com a aplicação, você pode definir objetivos, prazos e acompanhar seu progresso de maneira simples e eficiente. Além disso, a aplicação salva em histórico todas as suas tarefas com o registro completo de quando foi iniciada, qual era o prazo e também se foi concluída, interrompida ou está em andamento, para que você possa avaliar seu desempenho e melhorar sua eficiência no futuro. Tudo isso fica salvo em localstorage, tornando a aplicação performática e simples de ser utilizada.
