@@ -17,6 +17,7 @@ Este projeto consiste em um aplicativo de contagem regressiva, projetado para aj
 * Adicionar o tempo previsto para a tarefa
 * Botão inativo até preencher os campos
 * Navbar para a troca de páginas
+* Tittle da página é alterada pelo contador quando em execução
 
 ## Layout History
 ![Web 1](./src/assets/assetsformd/history-img.png)
@@ -27,11 +28,11 @@ Este projeto consiste em um aplicativo de contagem regressiva, projetado para aj
 * Navbar para a troca de páginas
 
 # Componentes
-* Countdown:
- O contador foi desenvolvido como um componente, para que a página principal não fique poluida, tornando a aplicação performática e extremamente mais simples de fazer manutenção, visando a produtividade.
+* **Countdown:**
+ O contador foi desenvolvido como um componente, para que a página principal não fique poluída, tornando a aplicação performática e extremamente mais simples de fazer manutenção, visando a produtividade.
 
-* NewCycleForm:
-  Foi desenvolvido também o componente de ciclos, que é responsável por de "trás da aplicação", salvar todos os ciclos em variáveis e em JSONs para que possamos imprimir essas informações na página do histórico e para que fique sempre salva na Localstorange.
+* **NewCycleForm:**
+  Foi desenvolvido também o componente de ciclos, que é responsável por trás da aplicação salvar todos os ciclos em variáveis e em JSONs para que possamos imprimir essas informações na página do histórico e para que fique sempre salvo na LocalStorage.
 
 
 
@@ -68,7 +69,7 @@ npm install
 # executar o projeto
 npm run dev
 
-*Projeto configurado para rodar na porta **3000**>
+*Projeto configurado para rodar na porta **3000**
 ```
 
 # Autor
